@@ -22,7 +22,7 @@ class MyClient(discord.Client):
         # Command to call the bot and save their message
         command, user_message = None, None
         for text in ['/ai', '/bot', '/chatgpt']:
-            # Spliting 
+            # Splitting message in command and user_message
             if message.content.startswith(text):
                 command = message.content.split(' ')[0]
                 user_message = message.content.replace(text, '')
