@@ -24,3 +24,7 @@
     1. Paste the link into a browser and click enter.
     2. Add the bot to a server.
     3. Review and authorize the permissions.
+    
+## Snapshots
+    
+![Snapshot-Chatbot](https://user-images.githubusercontent.com/95921032/216701229-67b62697-47dd-429a-ac6f-697b7a2485b1.jpeg)
